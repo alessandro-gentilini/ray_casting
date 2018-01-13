@@ -9,6 +9,7 @@ rendered with the code and starting from the data contained in https://github.co
 
 ![alt text](https://github.com/alessandro-gentilini/ray_casting/blob/master/teapot.png "A rendering of the Utah Teapot.")
 
+There should be a bug somewhere: that white central rectangles are suspicious...
 
 
 
